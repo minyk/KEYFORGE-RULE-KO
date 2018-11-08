@@ -1,0 +1,23 @@
+{
+  "title": "키포지 규칙의 비공식 한글 번역 v1.0",
+  "description": "키포지의 규칙에 대한 번역입니다.",
+  "author": "민박사",
+  "language": "ko",
+  "plugins": [],
+  "pluginsConfig": {
+    "autocover": {
+      "font": {
+              "size": null,
+              "family": "Impact",
+              "color": "#FFF"
+          },
+          "size": {
+              "w": 1800,
+              "h": 2360
+          },
+          "background": {
+              "color": "#09F"
+          }
+    }
+  }
+}
